@@ -13,8 +13,6 @@
 
 This project demonstrates a basic web application where passwords are hashed using SHA-256 on the front end and automatically hashed with Bcrypt on the backend using React and Laravel.
 
- ### Overview
-
 This application allows users to:
 
 Enter a password in plain text.
